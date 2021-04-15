@@ -1,0 +1,46 @@
+html {
+    font-size: 22px;
+    line-height: 1.15;
+}
+
+body {
+    margin: auto 10rem;
+    display: block;
+    font-family: sans-serif;   
+    line-height: 1.8;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+h1 {
+    margin: 66px auto;   
+}
+
+h1, h2 {
+    font-weight: 400;
+    font-size: 1.125em;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    font-style: normal;
+}
+
+p {
+    font-style: normal;
+    font-size: 18px;
+}
+
+img {
+    margin-right: 2rem;
+    float: left;
+}
+
+a {
+    font-style: normal;
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+    font-family: sans-serif !important;
+    line-height: 1.8;
+}
